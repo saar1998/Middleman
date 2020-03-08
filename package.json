@@ -1,0 +1,19 @@
+{
+  "name": "middleman",
+  "version": "1.0.0",
+  "description": "Web Middleman",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saar1998/Middleman.git"
+  },
+  "author": "Saar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saar1998/Middleman/issues"
+  },
+  "homepage": "https://github.com/saar1998/Middleman#readme"
+}
