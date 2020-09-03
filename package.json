@@ -21,6 +21,6 @@
     "chai": "4.2.0"
   },
   "dependencies": {
-    "@hapi/hapi": "18.4.0"
+    "@hapi/hapi": "19.1.1"
   }
 }
